@@ -1,0 +1,32 @@
+/*STYLE*/
+header {
+    margin: 0 auto;
+    width: 100%;
+    height: 400%;
+        background-image: url("file:///Users/malikshelton/Projects/Malik-s_Site/images/artworks-000498213207-tzmqi1-t500x500.jpg");
+        background-size: cover;
+        background-repeat: repeat-y;
+}
+        
+h1 {
+    color: black;
+    text-align: center;
+      font-size: 30px;
+          font-family: 'lobster';
+    margin: 0px;
+    
+}
+h2 {
+    color: grey;
+    font-size: 50px;
+    font-family: 'lobster';
+}
+
+
+
+p { color: red;
+text-align: center;
+font-size: 30px;
+    font-family: 'lobster';
+    
+}
